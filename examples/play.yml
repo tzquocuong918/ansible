@@ -162,7 +162,7 @@
     #  the variable name with {{web['memcache']}} when using nested key value or {{web}}
     # when using the whole structure..
     web:
-      memcache: 192.168.1.2
+      memcache: 192.168.1.58
       httpd: apache
 
     # lists use a slightly different notation {{ mylist[1] }} to get 'b', they are 0 indexed.
